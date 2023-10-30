@@ -725,6 +725,7 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     SoterService \
     CneApp \
+    deviceInfoServiceModule \
     IWlanService \
     TimeService \
     PowerOffAlarm \
